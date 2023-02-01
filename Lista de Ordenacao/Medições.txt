@@ -1,0 +1,76 @@
+Medição com 20
+
+
+Cont Seleção: 190
+
+Cont Inserção: 209
+
+Cont Quicksort: 38
+Cont Seleção Reverso: 19
+
+
+
+Medição com 10
+
+
+Cont Seleção: 45
+
+Cont Inserção: 54
+
+Cont Quicksort: 12
+
+
+Cont Seleção Reverso: 9
+
+Medição com 100
+
+
+Cont Seleção: 4950
+
+Cont Inserção: 5049
+
+Cont Quicksort: 386
+Cont Seleção Reverso: 99
+
+
+
+Medição com 1000
+
+
+Cont Seleção: 499500
+
+Cont Inserção: 500499
+
+Cont Quicksort: 6996
+Cont Seleção Reverso: 999
+
+
+
+Medição com 10000
+
+
+Cont Seleção: 49995000
+
+Cont Inserção: 50004999
+
+Cont Quicksort: 103644
+Cont Seleção Reverso: 9999
+
+
+
+Medição com 100000
+
+
+Cont Seleção: 704982704
+
+Cont Inserção: 705082703
+
+Cont Quicksort: 1368962
+
+Cont Seleção Reverso: 99999
+
+
+Medição com 100000
+
+
+Não executa no computador

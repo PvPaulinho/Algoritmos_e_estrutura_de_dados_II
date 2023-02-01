@@ -1,0 +1,5 @@
+Paulo  40
+Francine  40
+Maria  95
+Faculdade  0
+...  15

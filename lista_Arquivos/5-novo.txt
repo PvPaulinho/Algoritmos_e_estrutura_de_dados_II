@@ -1,0 +1,6 @@
+gerente 1 22000
+engenheiro 2 12000
+tecnico 3 6500
+mecanico 4 2800
+operador 5 2100
+auxiliar 6 1400
